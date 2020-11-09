@@ -7,5 +7,8 @@ Edad:
 Carrera:
 	Computación
 
+Introducción:
+	Es una investigación un tema actaul y relevante.
+
 Comentario:
 	La presentación de mi tesis
