@@ -1,11 +1,11 @@
 Nombre:
-	Edgar Serrano Rojas
+	Abisai Morales Pasten
 
 Edad:
-	22
+	21
 
 Carrera:
 	Computación
 
 Comentario:
-	La presentación de mi tesis
+	La presentación tambien de mi tesis
