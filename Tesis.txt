@@ -12,3 +12,6 @@ Carrera:
 
 Comentario:
 	La presentación tambien de mi tesis
+
+Calificación:
+	7.5
