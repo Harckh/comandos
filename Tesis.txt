@@ -1,0 +1,11 @@
+Nombre:
+	Edgar Serrano Rojas
+
+Edad:
+	22
+
+Carrera:
+	Computación
+
+Comentario:
+	La presentación de mi tesis
